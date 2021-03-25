@@ -1,9 +1,9 @@
-.label__element:not(:last-child) {
+.label:not(:last-child) {
   display: block;
   margin-bottom: 10px;
 }
 
-.form__block {
+.set {
   display: block;
   margin-bottom: 20px;
 }
